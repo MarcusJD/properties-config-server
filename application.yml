@@ -6,3 +6,6 @@ spring:
   profiles:
     active:
     - native
+greeting-service:
+  greeting: "Olá"
+  default-value: "default"
