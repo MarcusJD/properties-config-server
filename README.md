@@ -1,1 +1,1 @@
-# config-server
+# Servidor de configurações para microservices.
